@@ -442,6 +442,9 @@ body{
       .navbar__s2,.navbar__s3{
         display: none;
       }
+      .text-block{
+        display: none;
+      }
 }
 
 
